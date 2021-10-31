@@ -1,0 +1,3 @@
+War card game read me 
+
+The objective  of war  is to win all of the cards.  The deck is divided evenly among the players. Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom  of their own deck .If the cards are the same rank, it is war. Each player turns up one card face down and one card face up. The player with the higher cards takes both piles.If the turned-up cards are again the same  each player places another card face down and turns another card face up. The game will be coded in Java. The program will use Arrays, get and sets to get user input from the game as it's a text-based card game. (War – Card Game Rules, 2021)
